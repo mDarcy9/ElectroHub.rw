@@ -1,4 +1,4 @@
-# ElectroHub.rw - No-Code E-Commerce Website
+# ElectroHub.rw
 
 ## Student Information
 
@@ -11,19 +11,19 @@
 
 ## Project Title
 
-**ElectroHub.rw - Online Electronics Store**
+**ElectroHub.rw**
 
 ---
 
 ## Platform Used
 
-- Wix (No-Code Website Builder)
+- Wix
 
 ---
 
 ## Project Description
 
-ElectroHub.rw is an online electronics store designed to help customers browse and purchase electronic products conveniently. The website provides product information, pricing, company details, and contact information in a user-friendly interface.
+ElectroHub.rw is an online electronics store developed using Wix. The website enables customers to browse various electronic products, view product information, and contact the store through a dedicated contact page. The platform provides a simple and user-friendly interface that makes it easy for users to navigate between pages and explore available products.
 
 ---
 
@@ -33,16 +33,16 @@ ElectroHub.rw is an online electronics store designed to help customers browse a
 - Store name displayed prominently
 - Welcome message
 - Featured electronic products
-- Easy navigation menu
+- Navigation menu
 
 ### Product Page
-The website contains electronic products with:
+The website includes electronic products with:
 - Product images
 - Product names
 - Product descriptions
 - Product prices
 
-Example Products:
+#### Products Displayed
 1. Lenovo Laptop
 2. Samsung Smartphone
 3. Wireless Headphones
@@ -50,18 +50,18 @@ Example Products:
 5. Bluetooth Speaker
 
 ### About Us Page
-- Company introduction
+- Company overview
 - Mission statement
-- Vision statement
+- Information about the business
 
-### Contact Page
+### Contact Us Page
 - Contact form
-- Email address
+- Email information
 - Phone number
-- Physical location information
+- Customer support details
 
 ### Cart Functionality
-- Add-to-cart simulation
+- Basic add-to-cart simulation
 - Product selection process
 
 ---
@@ -71,49 +71,53 @@ Example Products:
 | Page | Description |
 |--------|-------------|
 | Home | Welcome page with featured products |
-| Products | Electronic products catalog |
-| About Us | Company information and mission |
+| Products | Displays available electronic products |
+| About Us | Information about ElectroHub.rw |
 | Contact Us | Customer communication page |
 
 ---
 
 ## Screenshots
 
-### Homepage
-![Homepage](images/homepage.png)
+### Home Page
+![Home Page](images/Home%20Page.png)
+
+### Contact Us Page
+![Contact Us Page](images/Contact%20Us%20Page.png)
 
 ### Product Page
-![Products](images/products.png)
-
-### Contact Page
-![Contact](images/contact.png)
+![Product Page](images/Product%20Page.png)
 
 ### About Us Page
-![Contact](images/About Us Page.png)
+![About Us Page](images/About%20Us%20Page.png)
+
 ---
 
 ## Challenges Faced
 
-- Selecting a suitable website template.
-- Organizing products effectively.
-- Designing a clean and responsive user interface.
-- Creating a realistic shopping experience using no-code tools.
+- Choosing a suitable website template.
+- Organizing product information effectively.
+- Creating a responsive and attractive layout.
+- Designing a simple user experience.
+- Managing website content using a no-code platform.
 
 ---
 
 ## Lessons Learned
 
-- How to create an e-commerce website using a no-code platform.
-- Website navigation and UI/UX principles.
-- Product catalog organization.
-- Basic online store management concepts.
-- GitHub Markdown documentation.
+- How to create a website using Wix.
+- Basic e-commerce website structure.
+- User Interface (UI) and User Experience (UX) principles.
+- Product catalog management.
+- GitHub repository management and Markdown documentation.
 
 ---
 
 ## Live Website Link
 
 https://darcymusoni.wixsite.com/electrohub_rw
+
+---
 
 ## GitHub Repository Link
 
@@ -129,13 +133,14 @@ ElectroHub.rw/
 ├── README.md
 │
 └── images/
-    ├── homepage.png
-    ├── products.png
-    └── contact.png
+    ├── Home Page.png
+    ├── Contact Us Page.png
+    ├── Product Page.png
+    └── About Us Page.png
 ```
 
 ---
 
 ## Conclusion
 
-ElectroHub.rw demonstrates the use of no-code technologies to build a functional e-commerce platform for electronic products. The project provides customers with an easy way to browse products, learn about the company, and contact the store through a simple and intuitive interface.
+ElectroHub.rw is a simple electronics e-commerce website developed using Wix. The project demonstrates the use of website-building tools to create a functional online store that allows users to browse products, learn about the company, and contact the business. Through this project, practical skills in website design, navigation, content organization, and GitHub Markdown documentation were developed.
