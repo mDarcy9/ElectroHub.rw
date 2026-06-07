@@ -2,9 +2,9 @@
 
 ## Student Information
 
-**Name:** MUSONI Darcy  
-**Student ID:** 24485/2024  
-**Program:** Bachelor of Science in Computing and Information Science  
+**Name:** MUSONI Darcy
+**Student ID:** 24485/2024
+**Program:** Bachelor of Science in Computing and Information Science
 **University:** University of Lay Adventists of Kigali (UNILAK)
 
 ---
@@ -17,13 +17,13 @@
 
 ## Platform Used
 
-- Wix
+* Wix
 
 ---
 
 ## Project Description
 
-ElectroHub.rw is an online electronics store developed using Wix. The website allows customers to browse electronic products, explore product details, learn about the company, and contact the business through a dedicated contact page. The platform provides a simple and user-friendly interface that makes navigation easy and improves the overall user experience.
+ElectroHub.rw is an online electronics store developed using Wix. The website enables customers to browse electronic products, view product information, learn about the company, and contact the business through a dedicated contact page. The platform provides a simple and user-friendly interface that makes navigation easy and efficient.
 
 ---
 
@@ -31,19 +31,19 @@ ElectroHub.rw is an online electronics store developed using Wix. The website al
 
 ### Home Page
 
-- Store name displayed prominently
-- Welcome message
-- Featured electronic products
-- Easy navigation menu
+* Store name displayed prominently
+* Welcome message
+* Featured electronic products
+* Easy navigation menu
 
 ### Product Page
 
 The website contains electronic products with:
 
-- Product images
-- Product names
-- Product descriptions
-- Product prices
+* Product images
+* Product names
+* Product descriptions
+* Product prices
 
 #### Products Displayed
 
@@ -55,32 +55,32 @@ The website contains electronic products with:
 
 ### About Us Page
 
-- Company introduction
-- Mission statement
-- Business information
+* Company introduction
+* Mission statement
+* Business information
 
 ### Contact Us Page
 
-- Contact form
-- Email information
-- Phone number
-- Customer support details
+* Contact form
+* Email information
+* Phone number
+* Customer support details
 
 ### Cart Functionality
 
-- Add-to-cart simulation
-- Product selection process
+* Add-to-cart simulation
+* Product selection process
 
 ---
 
 ## Website Pages
 
-| Page | Description |
-|--------|-------------|
-| Home | Welcome page with featured products |
-| Products | Displays available electronic products |
-| About Us | Information about ElectroHub.rw |
-| Contact Us | Customer communication page |
+| Page       | Description                            |
+| ---------- | -------------------------------------- |
+| Home       | Welcome page with featured products    |
+| Products   | Displays available electronic products |
+| About Us   | Information about ElectroHub.rw        |
+| Contact Us | Customer communication page            |
 
 ---
 
@@ -88,39 +88,39 @@ The website contains electronic products with:
 
 ### Home Page
 
-![Home Page](images/Home%20page.PNG)
+![Home Page](Home page.PNG)
 
 ### Contact Us Page
 
-![Contact Us Page](images/Contact%20Us%20page.PNG)
+![Contact Us Page](Contact Us page.PNG)
 
 ### Product Page
 
-![Product Page](images/Product%20Page.PNG)
+![Product Page](Product Page.PNG)
 
 ### About Us Page
 
-![About Us Page](images/About%20Us%20page.PNG)
+![About Us Page](About Us page.PNG)
 
 ---
 
 ## Challenges Faced
 
-- Choosing a suitable website template.
-- Organizing products effectively.
-- Creating a responsive and attractive design.
-- Ensuring smooth navigation between pages.
-- Managing website content using a no-code platform.
+* Choosing a suitable website template.
+* Organizing products effectively.
+* Creating a responsive and attractive design.
+* Ensuring smooth navigation between pages.
+* Managing website content using a no-code platform.
 
 ---
 
 ## Lessons Learned
 
-- How to create a website using Wix.
-- Website design and user experience principles.
-- Product organization and presentation techniques.
-- Basic e-commerce website development concepts.
-- GitHub repository management and Markdown documentation.
+* How to create a website using Wix.
+* Website design and user experience principles.
+* Product organization and presentation techniques.
+* Basic e-commerce website development concepts.
+* GitHub repository management and Markdown documentation.
 
 ---
 
@@ -142,12 +142,11 @@ https://github.com/mDarcy9/ElectroHub.rw
 ElectroHub.rw/
 │
 ├── README.md
-│
-└── images/
-    ├── Home page.PNG
-    ├── Contact Us page.PNG
-    ├── Product Page.PNG
-    └── About Us page.PNG
+├── Home page.PNG
+├── Contact Us page.PNG
+├── Product Page.PNG
+├── About Us page.PNG
+└── Image/
 ```
 
 ---
