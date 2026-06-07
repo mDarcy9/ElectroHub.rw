@@ -23,26 +23,30 @@
 
 ## Project Description
 
-ElectroHub.rw is an online electronics store developed using Wix. The website enables customers to browse various electronic products, view product information, and contact the store through a dedicated contact page. The platform provides a simple and user-friendly interface that makes it easy for users to navigate between pages and explore available products.
+ElectroHub.rw is an online electronics store developed using Wix. The website allows customers to browse electronic products, explore product details, learn about the company, and contact the business through a dedicated contact page. The platform provides a simple and user-friendly interface that makes navigation easy and improves the overall user experience.
 
 ---
 
 ## Features Implemented
 
 ### Home Page
+
 - Store name displayed prominently
 - Welcome message
 - Featured electronic products
-- Navigation menu
+- Easy navigation menu
 
 ### Product Page
-The website includes electronic products with:
+
+The website contains electronic products with:
+
 - Product images
 - Product names
 - Product descriptions
 - Product prices
 
 #### Products Displayed
+
 1. Lenovo Laptop
 2. Samsung Smartphone
 3. Wireless Headphones
@@ -50,18 +54,21 @@ The website includes electronic products with:
 5. Bluetooth Speaker
 
 ### About Us Page
-- Company overview
+
+- Company introduction
 - Mission statement
-- Information about the business
+- Business information
 
 ### Contact Us Page
+
 - Contact form
 - Email information
 - Phone number
 - Customer support details
 
 ### Cart Functionality
-- Basic add-to-cart simulation
+
+- Add-to-cart simulation
 - Product selection process
 
 ---
@@ -80,25 +87,29 @@ The website includes electronic products with:
 ## Screenshots
 
 ### Home Page
-![Home Page](images/Home%20Page.png)
+
+![Home Page](images/Home%20page.PNG)
 
 ### Contact Us Page
-![Contact Us Page](images/Contact%20Us%20Page.png)
+
+![Contact Us Page](images/Contact%20Us%20page.PNG)
 
 ### Product Page
-![Product Page](images/Product%20Page.png)
+
+![Product Page](images/Product%20Page.PNG)
 
 ### About Us Page
-![About Us Page](images/About%20Us%20Page.png)
+
+![About Us Page](images/About%20Us%20page.PNG)
 
 ---
 
 ## Challenges Faced
 
 - Choosing a suitable website template.
-- Organizing product information effectively.
-- Creating a responsive and attractive layout.
-- Designing a simple user experience.
+- Organizing products effectively.
+- Creating a responsive and attractive design.
+- Ensuring smooth navigation between pages.
 - Managing website content using a no-code platform.
 
 ---
@@ -106,9 +117,9 @@ The website includes electronic products with:
 ## Lessons Learned
 
 - How to create a website using Wix.
-- Basic e-commerce website structure.
-- User Interface (UI) and User Experience (UX) principles.
-- Product catalog management.
+- Website design and user experience principles.
+- Product organization and presentation techniques.
+- Basic e-commerce website development concepts.
 - GitHub repository management and Markdown documentation.
 
 ---
@@ -133,14 +144,14 @@ ElectroHub.rw/
 ├── README.md
 │
 └── images/
-    ├── Home Page.png
-    ├── Contact Us Page.png
-    ├── Product Page.png
-    └── About Us Page.png
+    ├── Home page.PNG
+    ├── Contact Us page.PNG
+    ├── Product Page.PNG
+    └── About Us page.PNG
 ```
 
 ---
 
 ## Conclusion
 
-ElectroHub.rw is a simple electronics e-commerce website developed using Wix. The project demonstrates the use of website-building tools to create a functional online store that allows users to browse products, learn about the company, and contact the business. Through this project, practical skills in website design, navigation, content organization, and GitHub Markdown documentation were developed.
+ElectroHub.rw is a simple electronics e-commerce website developed using Wix. The project demonstrates the use of website-building tools to create a functional online store where customers can browse products, learn about the business, and contact the store. Through this project, practical skills in website design, navigation, product presentation, and GitHub Markdown documentation were developed.
