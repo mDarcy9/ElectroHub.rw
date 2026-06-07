@@ -98,7 +98,7 @@ The website contains electronic products with:
 
 ![Product Page](Product Page.PNG)
 
-### About Us Page
+### AboutUs Page
 
 ![About Us Page](About Us page.PNG)
 
